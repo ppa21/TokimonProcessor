@@ -1,0 +1,9 @@
+/Users/pruthvirajpatel/RiderProjects/TokimonProcessor/TokimonProcessor/bin/Debug/TokimonProcessor.exe
+/Users/pruthvirajpatel/RiderProjects/TokimonProcessor/TokimonProcessor/bin/Debug/TokimonProcessor.pdb
+/Users/pruthvirajpatel/RiderProjects/TokimonProcessor/TokimonProcessor/obj/Debug/TokimonProcessor.csprojAssemblyReference.cache
+/Users/pruthvirajpatel/RiderProjects/TokimonProcessor/TokimonProcessor/obj/Debug/TokimonProcessor.csproj.CoreCompileInputs.cache
+/Users/pruthvirajpatel/RiderProjects/TokimonProcessor/TokimonProcessor/obj/Debug/TokimonProcessor.exe
+/Users/pruthvirajpatel/RiderProjects/TokimonProcessor/TokimonProcessor/obj/Debug/TokimonProcessor.pdb
+/Users/pruthvirajpatel/RiderProjects/TokimonProcessor/TokimonProcessor/bin/Debug/Newtonsoft.Json.dll
+/Users/pruthvirajpatel/RiderProjects/TokimonProcessor/TokimonProcessor/bin/Debug/Newtonsoft.Json.xml
+/Users/pruthvirajpatel/RiderProjects/TokimonProcessor/TokimonProcessor/obj/Debug/TokimonProcessor.csproj.CopyComplete
