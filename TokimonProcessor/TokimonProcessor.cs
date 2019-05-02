@@ -65,6 +65,9 @@ namespace TokimonProcessor {
                 comment = (string) jObject["team"][i]["compatibility"]["comment"];
                 teamComment = (string) jObject["extra_comments"];
                 Tokimon toki = new Tokimon(name, id, score, comment, teamComment);
+                
+                // add error handling here
+                
                 TokimonContainer.Add(toki);
             }
         }
